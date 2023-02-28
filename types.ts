@@ -1,4 +1,4 @@
-// Locale 'us-EN'
+// Locale 'en-US'
 type Day =
   | 'Sunday'
   | 'Monday'
@@ -9,7 +9,7 @@ type Day =
   | 'Saturday';
 
 type OpeningHours = {
-  closed: boolean;
+  closed: boolean; // If true, it means the store is closed all day
   closesAt: string;
   day: Day;
   opensAt: string;

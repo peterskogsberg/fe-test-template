@@ -1,6 +1,6 @@
 import { Day } from './types';
 
-const US_LOCALE = 'us-EN';
+const US_LOCALE = 'en-US';
 
 const getNameOfCurrentDay = () =>
   new Intl.DateTimeFormat(US_LOCALE, {

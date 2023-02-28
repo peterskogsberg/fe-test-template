@@ -4,8 +4,8 @@ import { getNameOfCurrentDay } from './date-utils';
 import './style.css';
 
 export default function App() {
-  const day = getNameOfCurrentDay();
-  const greetingMessage = `Hello fellow frontender! Today is ${day}`;
+  const currentDay = getNameOfCurrentDay();
+  const greetingMessage = `Hello fellow frontender! Today is ${currentDay}`;
 
   return (
     <div>
