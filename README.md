@@ -12,15 +12,13 @@ You can also fetch data any way you want, e.g. fetch, Axios, react-query or even
 
 ## Keep calm and code on 👌
 
-Use Google, StackOverflow, MDN or even ChatGPT/Co-pilot freely!
+✋ Use any online resources freely! If you get stuck we will help you along the way, and if we run out of time we will discuss and outline the remaining parts of the solution as text or pseudo code; what you would have done as the next steps.
 
-✋ If you get stuck we will help you along the way, and if we run out of time we will discuss and outline the remaining parts of the solution as text or pseudo code; what you would have done as the next steps.
-
-It is also OK to introduce assumptions or limitations but please explain them along the way. We are more interested in the process than the result.
+It is also OK to introduce assumptions or limitations, just explain them along the way. We are more interested in the process than the result.
 
 ## Let's get started
 
-Navigate to [https://www.xxl.se/store-finder](https://www.xxl.se/store-finder) to browse the list of XXL warehouses in Sweden. Pick any store, maybe your "local" or closest store? Note the name of the store.
+Navigate to [https://www.xxl.se/store-finder](https://www.xxl.se/store-finder) to browse the list of XXL stores in Sweden. Pick any store, maybe your "local" or closest store? Note the name of the store.
 
 ## API
 

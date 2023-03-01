@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { XXLLogo } from './components/XXLLogo';
 import { getNameOfCurrentDay } from './date-utils';
 
 import './style.css';
@@ -9,10 +10,12 @@ export default function App() {
 
   return (
     <div>
-      <h1>XXL - store indicator</h1>
-      {greetingMessage}
-      <br />
-      <p>Here would be a great place to add your component!</p>
+      <XXLLogo />
+      <h1>Opening hours indicator</h1>
+      <p>{greetingMessage}</p>
+      <p>
+        <pre>&lt;Here would be a great place to add your component!&gt;</pre>{' '}
+      </p>
     </div>
   );
 }
