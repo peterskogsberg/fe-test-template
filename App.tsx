@@ -13,9 +13,8 @@ export default function App() {
       <XXLLogo />
       <h1>Opening hours indicator</h1>
       <p>{greetingMessage}</p>
-      <p>
-        <pre>&lt;Here would be a great place to add your component!&gt;</pre>{' '}
-      </p>
+
+      <pre>&lt;Here would be a great place to add your component!&gt;</pre>
     </div>
   );
 }
