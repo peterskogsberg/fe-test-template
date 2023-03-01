@@ -4,7 +4,7 @@ Welcome! Your mission is as follows.
 
 Build a React component that displays whether a specific XXL warehouse store 🏬 is currently ✔️ open or ❌ closed.
 
-## Implementation choices are up to you
+## Have it your way
 
 You are free to choose both implementation details and your way of working.
 
@@ -27,9 +27,7 @@ Navigate to [https://www.xxl.se/store-finder](https://www.xxl.se/store-finder) t
 The underlying API that is used on this page is
 [https://api.xxlsports.com/content-api-v5/datasets/xxl-se/stores/](https://api.xxlsports.com/content-api-v5/datasets/xxl-se/stores/) - go ahead, try a `GET` request in a new browser tab, cURL, Postman or however you wish!
 
-Find your selected store and note the `id` attribute which you can use to request specifically only the data for a single store, by ending the API URL with that id as a suffix. Please refer to `api.ts` for a starting point to this.
-
-![Excerpt from Swagger API docs](https://raw.githubusercontent.com/peterskogsberg/fe-test/ac9a835d772f56af321efb0d37ea6d4d37193e6a/img/swagger.png 'Excerpt from Swagger API docs')
+Find your selected store and note the `id` attribute which you can use to request specifically only the data for a single store, by ending the API URL with that id as a suffix. Please refer to `api.ts` for a starting point to this, or `swagger.png` if you want more API details.
 
 The file `example.json` contains one such response example. You may also use this file as a mock or fixture if you like.
 
