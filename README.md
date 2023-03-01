@@ -6,15 +6,17 @@ Build a React component that displays whether a specific XXL warehouse store �
 
 ## Implementation choices are up to you
 
-You are free to choose whether to work in a local IDE or an online based one, whether you want to use TypeScript or JavaScript, and how the component will look. SVG icons are provided if you want to use them.
+You are free to choose both implementation details and your way of working.
 
-You can also fetch data any way you want, e.g. fetch, Axios, react-query or even XMLHttpRequest. The same goes for app-internal data management - React context, Redux, Immer, a hook, useState?
+- Work in a local IDE or this online based one
+- TypeScript or JavaScript
+- How the component will look (SVG icons are provided if you want to use them)
+- How to fetch data (e.g. fetch, Axios, react-query or even XMLHttpRequest)
+- App internal data management (e.g. React context, Redux, Immer, a hook, useState?
 
 ## Keep calm and code on 👌
 
-✋ Use any online resources freely! If you get stuck we will help you along the way, and if we run out of time we will discuss and outline the remaining parts of the solution as text or pseudo code; what you would have done as the next steps.
-
-It is also OK to introduce assumptions or limitations, just explain them along the way. We are more interested in the process than the result.
+✋ Use any online resources freely! If you get stuck we will help you along the way, and if we run out of time we will discuss and outline the remaining parts of the solution as text or pseudo code; what you would have done as the next steps. We are more interested in the process than the result.
 
 ## Let's get started
 
